@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Saket-Portfolio/static/css/main.3a5e30c7.css",
+    "main.js": "/Saket-Portfolio/static/js/main.6eabaefe.js",
+    "static/media/profile.gif": "/Saket-Portfolio/static/media/profile.d0149b1a20ccc9d9cff9.gif",
+    "static/media/proj4.jpg": "/Saket-Portfolio/static/media/proj4.51b43e2f6f972fdde325.jpg",
+    "static/media/proj1.jpg": "/Saket-Portfolio/static/media/proj1.e7111694ec76363e980b.jpg",
+    "static/media/proj2.jpg": "/Saket-Portfolio/static/media/proj2.e9dd1642dfd53c1cf5a6.jpg",
+    "static/media/Tailwind.jpg": "/Saket-Portfolio/static/media/Tailwind.9c2e5bcf4f97d73e438e.jpg",
+    "static/media/proj3.jpg": "/Saket-Portfolio/static/media/proj3.3168a327a342a7c6b9c0.jpg",
+    "static/media/proj5.jpg": "/Saket-Portfolio/static/media/proj5.0ce8c474ef82696cdc01.jpg",
+    "static/media/proj7.jpg": "/Saket-Portfolio/static/media/proj7.d6baeb25a22a996f6779.jpg",
+    "static/media/proj6.jpg": "/Saket-Portfolio/static/media/proj6.94541b71ace84343b426.jpg",
+    "static/media/CSS.jpg": "/Saket-Portfolio/static/media/CSS.1a57e67ac1fd2ea84d64.jpg",
+    "static/media/React.jpg": "/Saket-Portfolio/static/media/React.53dc6bc56f1c8aa7f441.jpg",
+    "static/media/photograph.jpg": "/Saket-Portfolio/static/media/photograph.4f76708ee023cd968fd0.jpg",
+    "static/media/Postman.svg": "/Saket-Portfolio/static/media/Postman.c74cd48d00339ba03ff2e6ed3f9d0c4d.svg",
+    "static/media/logoImgDark.jpg": "/Saket-Portfolio/static/media/logoImgDark.d182da33aab1c29d8656.jpg",
+    "static/media/NodeJs.svg": "/Saket-Portfolio/static/media/NodeJs.4970831107ad695ce7743907d100c93e.svg",
+    "static/media/MongoDB.svg": "/Saket-Portfolio/static/media/MongoDB.cd58961bbba903db49c96691b893e095.svg",
+    "static/media/Redux.svg": "/Saket-Portfolio/static/media/Redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/Javascript.svg": "/Saket-Portfolio/static/media/Javascript.cdf92412c582ffc7dbeac9670d5a4fbe.svg",
+    "index.html": "/Saket-Portfolio/index.html",
+    "static/media/Git.svg": "/Saket-Portfolio/static/media/Git.3f41aec9d202a53c6361692f24ec83f2.svg",
+    "main.3a5e30c7.css.map": "/Saket-Portfolio/static/css/main.3a5e30c7.css.map",
+    "main.6eabaefe.js.map": "/Saket-Portfolio/static/js/main.6eabaefe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a5e30c7.css",
+    "static/js/main.6eabaefe.js"
+  ]
+}
