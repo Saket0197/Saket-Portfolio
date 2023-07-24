@@ -27,7 +27,7 @@ const projData = [
         "id":1,
         "projPath":proj1,
         "title": "Fullstack Blog App",
-        "icons":[ihtml,icss,ijs,ireact,imongo,iexpress,inode,itailwind,igit,igithub],
+        "icons":[ihtml,icss,ijs,ireact,imongo,iexpress,inode,itailwind,igit,igithub,ipostman],
         "description": 'The Web App allows users to create, edit and delete blogs, with suitable blog covers. The registered users get mail for blogs they create.',
         "github" : 'https://github.com/Saket0197/fullstack-blog-app',
         "liveLink": 'https://bloggers-blog-app.vercel.app/'
