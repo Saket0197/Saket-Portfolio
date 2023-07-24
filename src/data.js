@@ -1,4 +1,5 @@
 import proj1 from './Assets/Projects/proj1.jpg';
+import proj2 from './Assets/Projects/proj2.jpg';
 import proj3 from './Assets/Projects/proj3.jpg';
 import proj4 from './Assets/Projects/proj4.jpg';
 import proj5 from './Assets/Projects/proj5.jpg';
@@ -30,6 +31,16 @@ const projData = [
         "description": 'The Web App allows users to create, edit and delete blogs, with suitable blog covers. The registered users get mail for blogs they create.',
         "github" : 'https://github.com/Saket0197/fullstack-blog-app',
         "liveLink": 'https://bloggers-blog-app.vercel.app/'
+    },
+
+    {
+        "id":2,
+        "projPath":proj2,
+        "title": "Shopping App",
+        "icons":[ihtml,icss,ijs,ireact,itailwind,igit,igithub,iredux],
+        "description": 'App where users can view list of products by navigating between pages, based on specific category, rating and price. Users can add/remove products from cart, review total price and number of products before checkout.',
+        "github" : 'https://github.com/Saket0197/shopping-app',
+        "liveLink": 'https://saket-shopping-app.vercel.app/'
     },
 
     {
