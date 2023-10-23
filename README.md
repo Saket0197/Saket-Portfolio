@@ -1,6 +1,6 @@
 # Saket-Portfolio
 
-- **Review project at : https://saket0197.github.io/Saket-Portfolio/**
+- **Review project at : https://saket-portfolio-rxpt-saket0197.vercel.app/**
 
 - Personal Portfolio - Displaying my key skills and projects implementing Html, Css, JS, Tailwind and MERN Stack.
 
