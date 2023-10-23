@@ -99,7 +99,7 @@ const projData = [
     description:
       "The web app lets you search for any Developer's Github Profile by their username(s).It supports both light and dark mode as per your preference",
     github: "https://github.com/Saket0197/Dev-Detective",
-    liveLink: "https://saket0197.github.io/Dev-Detective/",
+    liveLink: "https://dev-detective-saket0197.vercel.app/",
   },
 
   {
